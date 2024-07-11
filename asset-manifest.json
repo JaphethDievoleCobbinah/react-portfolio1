@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio1/static/css/main.4f89fc51.css",
+    "main.js": "/react-portfolio1/static/js/main.903445bd.js",
+    "static/media/trutstess.png": "/react-portfolio1/static/media/trutstess.559e929cc6cfd955577d.png",
+    "static/media/bfmStore.png": "/react-portfolio1/static/media/bfmStore.3bebd045ff7e951492b0.png",
+    "static/media/bfmNetwork.png": "/react-portfolio1/static/media/bfmNetwork.fdd5ae417aff9acf32f2.png",
+    "static/media/japhethdievolecobbinah.png": "/react-portfolio1/static/media/japhethdievolecobbinah.cdc9bb9356dabd1e6fdd.png",
+    "static/media/bfmInstitute.png": "/react-portfolio1/static/media/bfmInstitute.72c58897d3f62fd66a4d.png",
+    "static/media/wordpress.png": "/react-portfolio1/static/media/wordpress.9c544276a4ffd79e5e8e.png",
+    "static/media/backend.png": "/react-portfolio1/static/media/backend.183966d79e67f35eace9.png",
+    "static/media/react.png": "/react-portfolio1/static/media/react.3b492bade043821ded42.png",
+    "static/media/mongodb.png": "/react-portfolio1/static/media/mongodb.2178943141ba7e7fae4e.png",
+    "index.html": "/react-portfolio1/index.html",
+    "main.4f89fc51.css.map": "/react-portfolio1/static/css/main.4f89fc51.css.map",
+    "main.903445bd.js.map": "/react-portfolio1/static/js/main.903445bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f89fc51.css",
+    "static/js/main.903445bd.js"
+  ]
+}
